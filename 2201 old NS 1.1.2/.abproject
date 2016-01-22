@@ -1,0 +1,28 @@
+{
+  "ProjectName": "2201 old NS 1.1.2",
+  "ProjectGuid": "04e40df9-0e0f-4849-a6e8-04df8bd0f6b2",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.the2201oldNS112",
+  "DisplayName": "2201 old NS 1.1.2",
+  "Author": "",
+  "Description": "2201 old NS 1.1.2",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "1.4.3",
+  "Framework": "NativeScript"
+}
